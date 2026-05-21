@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/concrete-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Concrete Angel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/concrete-angel/) |
+| **Get License** | [Secure Licensing Rights for Concrete Angel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/concrete-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b4bc6ab036f88d335328596188bf67216e37fa5c7581d80695105c02c3c1dbcd` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
