@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/concrete-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Concrete Angel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/concrete-angel/) |
+| **Get License** | [Get a Licensing Quote for Concrete Angel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/concrete-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can see your halo in the street lamp light
+> Guiding me through the longest, darkest night
+> You're my concrete angel, steady as a stone
+> With you by my side, I'll never ride alone
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
